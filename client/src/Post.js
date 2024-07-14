@@ -24,7 +24,7 @@ export default function Post({
           <h2>{title}</h2>
         </Link>
         <p className="info">
-          <img src="https://res.cloudinary.com/diraplvly/image/upload/v1720945120/jy2mkdzohnamwkwxn5vq.jpg" alt="" width={30} height={30} />
+          <img src="https://res.cloudinary.com/diraplvly/image/upload/v1720946359/wtfeqqcsplcmwscqjh7d.jpg" alt="" width={30} height={30} />
           <a className="author">{author.username}</a>
           <time> {format(new Date(createdAt), "MMM d,yyyy HH:mm")}</time>
         </p>
