@@ -28,7 +28,7 @@ export default function Header() {
     <header>
       <Link to="/" className="logo">
         Lavender Letters
-        <img src="https://res.cloudinary.com/diraplvly/image/upload/v1720944890/buvgz8loft3tahehmgti.jpg" alt="" width={50} height={50} />
+        <img src="https://res.cloudinary.com/diraplvly/image/upload/v1720947932/yljqcxq8bhsmfiw9x431.jpg" alt="" width={50} height={50} />
       </Link>
       <nav>
         {username && (
